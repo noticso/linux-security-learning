@@ -118,7 +118,7 @@ Gli esercizi che richiedono modifiche al sistema vengono svolti in una macchina 
 * Distribuzione: Ubuntu 26.04 LTS
 * Tipo di installazione: Desktop
 * Shell: Bash
-* Repository GitHub: [inserire collegamento quando disponibile]
+* Repository GitHub: [](https://github.com/noticso/linux-security-learning)
 * Applicazione per gli appunti: Obsidian
 
 ## Regole di sicurezza
@@ -162,7 +162,7 @@ Ogni cartella di esercizio contiene un proprio `README.md` con:
 
 ## Avanzamento generale
 
-* [ ] The Linux Command Line
+* [x] The Linux Command Line
 * [ ] Bash Guide for Beginners
 * [ ] GNU Bash Reference Manual
 * [ ] Ubuntu Server Documentation
@@ -176,7 +176,6 @@ Ogni cartella di esercizio contiene un proprio `README.md` con:
 ## Stato attuale
 
 * Data di inizio: 05/08/2026
-* Fase attuale: [inserire fase]
 * Settimana attuale: Settimana 1
 * Giorno attuale: Giorno 1
 * Risorsa attuale: The Linux Command Line
