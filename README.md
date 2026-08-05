@@ -186,13 +186,13 @@ Ogni cartella di esercizio contiene un proprio `README.md` con:
 
 ### Settimana 1
 
-* Risorsa studiata:
-* Capitoli letti:
+* Risorsa studiata: The Linux Command Line  
+* Capitoli letti: 1
 * Esercizi completati:
-* File prodotti:
+* File prodotti: Glossario di comandi, Appunti
 * Problemi incontrati:
-* Cosa ho imparato:
-* Stato: Da iniziare
+* Cosa ho imparato: `df`, `free`, 
+* Stato: Iniziato
 
 ### Settimana 2
 
