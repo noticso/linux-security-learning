@@ -118,7 +118,7 @@ Gli esercizi che richiedono modifiche al sistema vengono svolti in una macchina 
 * Distribuzione: Ubuntu 26.04 LTS
 * Tipo di installazione: Desktop
 * Shell: Bash
-* Repository GitHub: [](https://github.com/noticso/linux-security-learning)
+* Repository GitHub: [qua!](https://github.com/noticso/linux-security-learning)
 * Applicazione per gli appunti: Obsidian
 
 ## Regole di sicurezza
@@ -177,9 +177,9 @@ Ogni cartella di esercizio contiene un proprio `README.md` con:
 
 * Data di inizio: 05/08/2026
 * Settimana attuale: Settimana 1
-* Giorno attuale: Giorno 1
+* Giorno attuale: Giorno 3
 * Risorsa attuale: The Linux Command Line
-* Capitolo attuale: 1
+* Capitolo attuale: 3
 * Ultimo esercizio completato: [inserire esercizio]
 
 ## Registro settimanale
@@ -187,11 +187,11 @@ Ogni cartella di esercizio contiene un proprio `README.md` con:
 ### Settimana 1
 
 * Risorsa studiata: The Linux Command Line  
-* Capitoli letti: 1
+* Capitoli letti: 2
 * Esercizi completati:
 * File prodotti: Glossario di comandi, Appunti
 * Problemi incontrati:
-* Cosa ho imparato: `df`, `free`, 
+* Cosa ho imparato: `df`, `free` + altri comandi già conosciuti 
 * Stato: Iniziato
 
 ### Settimana 2
@@ -210,7 +210,7 @@ Aggiungere una nuova sezione per ogni settimana.
 
 ### Linux
 
-* [ ] Navigazione nel filesystem
+* [x] Navigazione nel filesystem
 * [ ] Gestione di file e directory
 * [ ] Pipe e redirezioni
 * [ ] Utenti e gruppi
